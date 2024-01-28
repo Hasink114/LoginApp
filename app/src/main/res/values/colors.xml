@@ -3,5 +3,8 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
-    <color name="app_theme">#804ADF</color>
+    <color name="primary">#CF211D</color>
+    <color name="secondary">#C8AB2B</color>
+    <color name="BackGound1">#CF211D</color>
+    <color name="Foreground1">#FFFFFF</color>
 </resources>
