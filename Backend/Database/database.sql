@@ -1,0 +1,9 @@
+CREATE DATABASE loginapp;
+
+USE loginapp;
+
+CREATE TABLE users(
+	id INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
+	`email` VARCHAR(50) NOT NULL,
+	`password` VARCHAR(50) NOT NULL
+);
